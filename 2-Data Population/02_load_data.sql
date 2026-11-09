@@ -1,0 +1,9 @@
+copy person from '/Users/chinmayvasisht/Downloads/cse412_phase2/data/person.csv' csv header;
+copy tenant from '/Users/chinmayvasisht/Downloads/cse412_phase2/data/tenant.csv' csv header;
+copy landlord from '/Users/chinmayvasisht/Downloads/cse412_phase2/data/landlord.csv' csv header;
+copy property from '/Users/chinmayvasisht/Downloads/cse412_phase2/data/property.csv' csv header;
+copy unit from '/Users/chinmayvasisht/Downloads/cse412_phase2/data/unit.csv' csv header;
+copy lease from '/Users/chinmayvasisht/Downloads/cse412_phase2/data/lease.csv' csv header;
+copy signs from '/Users/chinmayvasisht/Downloads/cse412_phase2/data/signs.csv' csv header;
+copy maintenance_request from '/Users/chinmayvasisht/Downloads/cse412_phase2/data/maintenance_request.csv' csv header;
+copy review from '/Users/chinmayvasisht/Downloads/cse412_phase2/data/review.csv' csv header;
